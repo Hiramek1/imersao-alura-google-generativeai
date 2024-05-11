@@ -5,7 +5,7 @@ Este projeto implementa um chatbot interativo destinado a mestres e jogadores de
 ## Funcionalidades
 
 ### Rolagem de Dados
-- **Comando Básico**: Os usuários podem rolar dados especificando o tipo e a quantidade (por exemplo, `1d20`, `3d6`).
+- **Comando Básico**: Os usuários podem rolar dados especificando o tipo e a quantidade (por exemplo, `/r 1d20`, `/r 3d6`).
 - **Resultado Detalhado**: O chatbot mostra o resultado de cada dado rolado e o total, proporcionando uma visão completa da rolagem.
 - **Padrão**: Se nenhum dado for especificado, o chatbot assume uma rolagem padrão de `1d20`.
 
