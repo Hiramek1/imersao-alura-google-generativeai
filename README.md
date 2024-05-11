@@ -18,8 +18,11 @@ Este projeto implementa um chatbot interativo destinado a mestres e jogadores de
 
 ## Tecnologias Utilizadas
 - Python: Lógica principal do chatbot.
-- OpenAI API: Para a geração de narrativas e descrições.
-- Bibliotecas Python como `random` para rolagem de dados.
+- Gemini API: Para a geração de narrativas e descrições.
+- Bibliotecas Python como:
+  -  `random` para rolagem de dados.
+  -  `textwrap` para formatar a saída de texto.
+  -  `display` para exibição de outputs em Markdown dentro de ambientes Jupyter
 
 ## Como Usar
 1. **Iniciar o Chatbot**: Execute o script principal User Interface.
